@@ -43,4 +43,4 @@ This script retrieves the latest tweets containing "pump.fun" links using the `t
 
 
 ```markdown
-![Screenshot](example.png)
+![Screenshot](/example.png)
