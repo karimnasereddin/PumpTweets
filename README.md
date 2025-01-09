@@ -1,4 +1,5 @@
 # PumpTweets
+<img src="logo.png" alt="Logo" width="200"> 
 
 **Python 3.12.4**
 
@@ -41,6 +42,4 @@ This script retrieves the latest tweets containing "pump.fun" links using the `t
 
 ## Screenshot
 
-
-```markdown
-![Screenshot](/example.png)
+![Screenshot](example.png)
