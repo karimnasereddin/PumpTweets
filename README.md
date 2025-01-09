@@ -1,5 +1,5 @@
 # PumpTweets
-<img src="logo.png" alt="Logo" width="200"> 
+<img src="logo.png" alt="Logo"> 
 
 **Python 3.12.4**
 
